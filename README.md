@@ -18,7 +18,7 @@ Folder Structure Conventions
     ├── JavaDocs                            # JavaDocs
     ├── Program with Sample Data/MySTARS    # Eclipse Project Directory
     ├── video                               # Link to video
-    ├── Assignment 2016-17S2(3).pdf         # Assignment Requirements
+    ├── Assignment 2016-17S2.pdf         # Assignment Requirements
     ├── README.md                           # README for repository
     └── readme.txt                          # README for Eclipse Project
     
