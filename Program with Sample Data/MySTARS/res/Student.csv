@@ -1,0 +1,16 @@
+Username,Matriculation Number,Name,Gender,Nationality,Year,Program,Specialization,Email,Mobile Number,Notification Mode(T1=Email;T2=SMS;T3=Email+SMS),School Initial
+WCHAN999,U1742323A,Chan Wei Chang,Male,Singaporean,2,Accountancy,Tax Auditting,WCHAN999@e.ntu.edu.sg,92134567,T2,NBS
+ZLIU023,U1756353C,Liu Zhemin,Male,Singaporean,1,Mechanical Engineering,,ZLIU023@e.ntu.edu.sg,92314499,T3,MAE
+ATAN057,U1568590G,Angel Tan Be Be,Female,Malaysian,4,Computer Science,Intelligent systems,ATAN057@e.ntu.edu.sg,93214441,T1,SCSE
+JPANG725,U1721001D,Pang Qi Kai,Male,Chinese,3,Computer Science,Intelligent systems,JPANG725@e.ntu.edu.sg,12345678,T3,SCSE
+YKTAN333,U1620681K,Tan Yong Kuan,Male,Singaporean,2,Computer Science,Networking & mobility,YKTAN333@e.ntu.edu.sg,81210628,T3,SCSE
+YKIM069,U1620709D,Yvette Kim Mong Qi,Female,Singaporean,2,Computer Science,Information Systems,YKIM069@e.ntu.edu.sg,91550994,T3,SCSE
+SHTAN66,U1621316F,Shaw Tan,Male,Singaporean,3,Computer Science,Intelligent systems,SHTAN66@e.ntu.edu.sg,96989313,T1,SCSE
+CBAY94,U1620710G,Clement Tan Xian Ren,Female,Korean,2,Computer Science,Data Science,CBAY94@e.ntu.edu.sg,82185626,T3,SCSE
+DHIDE024,U1525526L,Daichi Hideyoshi,Male,Japanese,3,Computer Engineering,Embedded systems,DHIDE024@e.ntu.edu.sg,93425322,T2,SCSE
+ASHIN43,U1420343F,Asih Shinta,Female,Indonesian,4,Computer Science,High performance computing,ASHIN43@e.ntu.edu.sg,85349342,T1,SCSE
+SKMETH53,U1726423C,Somsak Metharom,Male,Thai,1,Computer Science,,SKMETH53@e.ntu.edu.sg,96452643,T3,SCSE
+HSUHL933,U1624934K,Hsu Hua Lei,Female,Chinese,2,Computer Engineering,Digital Media,HSUHL933@e.ntu.edu.sg,84342683,T3,SCSE
+ZHUHA555,U1722364D,Zhu Huan An,Male,Chinese,1,Computer Science,,ZHUHA555@e.ntu.edu.sg,94324424,T3,SCSE
+JONL356,U1523535C,Jon Lauren Dean,Male,Britons,3,Computer Science,Information and Cyber Security,JONL356@e.ntu.edu.sg,92353664,T2,SCSE
+HYEON234,U1723454C,Hyeon Young-Ja,Female,Korean,1,Computer Engineering,,HYEON234@e.ntu.edu.sg,95674236,T3,SCSE
