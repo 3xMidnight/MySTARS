@@ -18,11 +18,11 @@ Folder Structure Conventions
     ├── JavaDocs                            # JavaDocs
     ├── Program with Sample Data/MySTARS    # Eclipse Project Directory
     ├── video                               # Link to video
-    ├── Assignment 2016-17S2.pdf         # Assignment Requirements
+    ├── Assignment 2016-17S2.pdf            # Assignment Requirements
     ├── README.md                           # README for repository
     └── readme.txt                          # README for Eclipse Project
     
     
 ****
 
-***Disclaimer:*** This repo is deprecated and no longer maintained. Project was submitted as part of the course project for CZ2002 OBJECT ORIENTED DESIGN AND PROGRAMMING at NTU in AY 16/17 Semester 2. All rights reserved to Nanyang Technological Univiserity and the Designer of course CZ2002. The author will bear no responsibilities for any issues arised from academic integrity  or honour code violations of anyone who takes this repository as a reference.
+***Disclaimer:*** This repo is deprecated and no longer maintained. The Project was submitted as part of the course project for CZ2002 OBJECT ORIENTED DESIGN AND PROGRAMMING at NTU in AY 16/17 Semester 2. All rights reserved to Nanyang Technological University and the Designer of course CZ2002. The author will bear no responsibilities for any issues arose from academic integrity  or honor code violations of anyone who takes this repository as a reference.
