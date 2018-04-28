@@ -1,6 +1,6 @@
-# CZ2002_FSP1_MySTARS
-Project for CZ2002 Object Oriented Design &amp; Programming, group FSP1 at Nanyang Technological University.
-Project was done as part of a coursework requirement for CZ2002 in AY16/17 Semester 2.
+# MySTARS
+A simple Java application for a console-based application to manage the Student Automated Registration System in NTU.
+
 
 ## About
 The objective of this assignment is to design and develop a console-based application – My Student Automated Registration System (MySTARS). NTU students will use MySTARS to check, register for courses, and do other course-related functions. MySTARS will also be used by an administrator to check, manage courses and edit access period for different schools and students.
@@ -25,4 +25,4 @@ Folder Structure Conventions
     
 ****
 
-***Disclaimer:*** This repo is depreciated and no longer maintained. All rights reserved to Nanyang Technological Univiserity and the Designer of course CZ2002. The author will bear no responsibilities for any issues arised from academic integrity of anyone who takes this repository as a reference.
+***Disclaimer:*** This repo is deprecated and no longer maintained. Project was submitted as part of the course project for CZ2002 OBJECT ORIENTED DESIGN AND PROGRAMMING at NTU in AY 16/17 Semester 2. All rights reserved to Nanyang Technological Univiserity and the Designer of course CZ2002. The author will bear no responsibilities for any issues arised from academic integrity  or honour code violations of anyone who takes this repository as a reference.
